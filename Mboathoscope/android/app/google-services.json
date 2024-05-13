@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618452689917",
+    "project_id": "mboathoscope-697fb",
+    "storage_bucket": "mboathoscope-697fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618452689917:android:9fd6d7a614e806f42a2f94",
+        "android_client_info": {
+          "package_name": "com.mboalab.community.opensource.outreachy.mboathoscope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZb1mVDQ0pXDlqQIhDzHjhaN1lTymFD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
